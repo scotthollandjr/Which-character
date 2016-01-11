@@ -1,1 +1,8 @@
-styles.css
+#fire, #air, #water, #earth {
+  display: none;
+  text-align: center;
+}
+
+img {
+  width: 300px;
+}
