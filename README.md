@@ -10,4 +10,8 @@ Character test page with jQuery, JavaScript, and HTML terms, for Epicodus Introd
 
 _This website will use HTML, CSS and JavaScript_
 
+## Link to GitHub Repository
+
+https://github.com/theAppanaut/Which-character.git
+
 Copyright (c) 2016 **_Scott Holland, Jr._**
